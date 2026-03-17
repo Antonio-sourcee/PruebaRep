@@ -3,6 +3,8 @@ package org.iis2024;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
+private int fieldAddedByCollaborator;
+
 /**
  * Represents a calendar date with validation capabilities.
  *
